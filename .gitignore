@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+
+# Project specific
+vectorstore/
+data/*.pdf
+test_chat_out*.txt
+test_direct_out.txt
+test_hf_*.txt
+test_multi_out*.txt
+test_out.txt
+*.pdf
+Pipfile.lock
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db

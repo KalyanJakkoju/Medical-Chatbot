@@ -1,0 +1,11 @@
+>   Open bash terminal 
+>   From README.md excecute line 15 in terminal
+>   After installation ,execute the command "pipenv run python create_memory_for_llm.py"
+>    From README.md excecute line 16 in terminal
+>    Next execute the command "pipenv shell"(to activate the virtual environment)
+>    Then execute the command "python connect_memory_with_llm.py"
+>    From README.md excecute line 17 in terminal
+>    Then run commands "conda install -c anaconda openssl" and  "conda install -c anaconda certify"  step by step.
+>    At last execute  the command "streamlit run medibot.py"
+
+----------------there u can see the magic----------------------
